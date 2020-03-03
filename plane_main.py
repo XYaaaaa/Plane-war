@@ -1,6 +1,6 @@
 import pygame
 from plane_sprites import *
-
+import tkinter
 
 class PlaneGame():
     #飞机大战主游戏
